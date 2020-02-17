@@ -1,0 +1,9 @@
+<?php
+
+    $num1 = 8;
+
+    $quadrado = $num1*$num1;
+
+    print("O quadrado do número " .$num1 ." é " .$quadrado);
+
+?>
