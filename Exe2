@@ -1,0 +1,10 @@
+<?php
+
+    $raio = 8;
+    $altura = 40;
+
+    $volume = 3.14159*($raio*$raio)*$altura;
+
+    print("O volume da lata de óleo é  " .$volume);
+
+?>
